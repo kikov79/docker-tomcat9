@@ -4,7 +4,7 @@ FROM ubuntu:14.04
 MAINTAINER Carlos Moro <cmoro@deusto.es>
 MAINTAINER KikoV <kikov@kikov.org>
 
-ENV TOMCAT_VERSION 9.0.0.M10
+ENV TOMCAT_VERSION 9.0.0.M15
 
 # Set locales
 RUN locale-gen es_ES.UTF-8
